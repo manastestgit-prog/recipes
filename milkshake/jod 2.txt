@@ -1,0 +1,14 @@
+Assume Harold liked your argument and agreed to proceed with agile on this project.  In his reply, Harold asked for further guidance on how to move forward.  Please reply back with the following:
+
+What things will have to change on how this team operates and how key stakeholders interact or engage on this project. (Hint: as you have learned, for agile to be successful there are certain prerequisites and it poses certain challenges for leadership/business stakeholders as well)
+
+The team is new to Agile and based on prerequisites for agile to be successful, please specify if you and your team need any help or training etc. If none, please state that.
+
+
+Harold is pretty impressed by your response and has approved all of your recommendations in previous two responses. He then re-iterated the key criteria for success and asked you if he and his management team should expect anything different from this project in terms for tracking and status updates.
+
+
+
+Are there any project constraints laid out in the case study that need to be changed/managed since you will be using agile and, in agile, planning, estimation and tracking happens differently? 
+
+Hint: The case study implies certain project constraints/expectations around cost, timeline, other factors that need to managed/changed.
